@@ -6,6 +6,8 @@
 This project analyzes 4 years (2011–2014) of transactional data from Global Superstore, a multinational retail company operating across 7 markets and 147 countries, to uncover sales performance, profitability drivers, customer behavior, and regional trends.
 
 The project follows a complete data analytics workflow: data cleaning, feature engineering, exploratory data analysis (EDA) in Python, and an interactive Power BI dashboard — ending with dollar-quantified, decision-ready business recommendations rather than purely descriptive charts.
+
+
 ---
 
 ## 🎯 Business Problems
