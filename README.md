@@ -19,6 +19,8 @@ Is the company's discounting strategy protecting or eroding margin?
 Are there specific regions, states, or countries generating losses that require intervention?
 Which customer segments and products should be prioritized for future investment?
 Does shipping/logistics performance materially affect profitability?
+
+
 ---
 
 ## 🎯 Project Objectives
