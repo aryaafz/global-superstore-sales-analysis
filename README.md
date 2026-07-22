@@ -1,4 +1,4 @@
-# 📊 Global Superstore Sales Analysis & Interactive Power BI Dashboard
+# 📊 Retail Sales & Profitability Analysis & Interactive Power BI Dashboard
 
 
 ## 📌 Project Overview
